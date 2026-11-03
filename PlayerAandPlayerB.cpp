@@ -1,4 +1,4 @@
-//BASIC TIC TOC TOE PLAYING Between PlayerA and PlayerB
+//BASIC TIC TAC TOE PLAYING BETWEEN PLAYER A AND PLAYER B
 
 #include <iostream>                                  //Used for input and output.
 #include <cstdlib>                                  //Used for random number generation.
