@@ -1,4 +1,4 @@
-//BASIC TIC TOC TOE PLAYING WITH COMPUTER
+//BASIC TIC TOC TOE PLAYING Between PlayerA and PlayerB
 
 #include <iostream>                                  //Used for input and output.
 #include <cstdlib>                                  //Used for random number generation.
@@ -19,7 +19,7 @@ void displayBoard()
     {
         cout<<"["<<board[i][0]<<"|"                //This displays all three columns of the current row
             <<"" <<board[i][1]<<"|"
-            << ""<<board[i][2]<<"]"<<endl;
+            << ""<<board[i][2]<<"]"<<"]"<<endl;
         if(i<2)
             cout<<"-*-*-*-"<<endl;
         
